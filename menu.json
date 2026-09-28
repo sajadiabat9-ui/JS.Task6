@@ -1,0 +1,17 @@
+[
+    {
+        "mealName": "Burger",
+        "price": 3.5,
+        "availability": true
+    },
+    {
+        "mealName": "Shawarma",
+        "price": 2.5,
+        "availability": true
+    },
+    {
+        "mealName": "Zinger",
+        "price": 3,
+        "availability": false
+    }
+]
